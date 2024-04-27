@@ -1,5 +1,6 @@
 # Portfolio
 Projects I worked on:
+  
   Shooter Game:
   https://github.com/MBatista18/ShooterGame
   - This project was to get us introduced to coding a game.
